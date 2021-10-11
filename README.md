@@ -1,3 +1,7 @@
+## Preview
+
+![Captura de Tela 2021-10-11 às 10 45 47](https://user-images.githubusercontent.com/83840866/136800911-ffa6f96e-9a74-401d-8c1c-d8ae37ca51a4.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
